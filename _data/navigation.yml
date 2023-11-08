@@ -19,10 +19,10 @@ main:
 # 2022.02.15 sidebar update : simple ver.
 categories:
   - title: "Daily life"
-    url: /categories/Daily life/
-  - title: "Computer science"
-    url: /categories/Computer science/
+    url: /categories/categories1/
+  - title: "Computer Science"
+    url: /categories/categories2/
   - title: "Stock, trading"
-    url: /categories/Stock, trading/
+    url: /categories/categories3/
   - title: "etc"
-    url: /categories/etc/
+    url: /categories/categories4/
