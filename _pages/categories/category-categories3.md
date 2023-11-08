@@ -1,5 +1,5 @@
 ---
-title: "Categories3"
+title: "Stock, trading"
 layout: category
 permalink: /categories/categories3/
 author_profile: true
