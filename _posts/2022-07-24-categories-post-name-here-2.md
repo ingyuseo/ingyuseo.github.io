@@ -33,10 +33,11 @@ Pytorch, CUDA, React, Spring Boot 의 Framework를 사용해보았습니다.
 
 Education:
 
-구미 형남초등학교
-구미 형남중학교
-구미고등학교
-성균관대학교
+-구미 형남초등학교
+-구미 형남중학교
+-구미고등학교
+-성균관대학교
+
 - 
 
 Contact
