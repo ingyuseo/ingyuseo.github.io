@@ -38,7 +38,10 @@ Education:
 -구미고등학교
 -성균관대학교
 
-- 
+Achievement and Certifications:
+
+- 삼성 SW역량 테스트 B형 (Pro)
+- 2019 KOICA 해외 봉사 우수상 (우즈베키스탄)
 
 Contact
 - 010-3930-9345
