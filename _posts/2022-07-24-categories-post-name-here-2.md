@@ -18,7 +18,7 @@ last_modified_at: 2023-11-08
 
 ## 🦥 자기소개
 
-![image](/assets/images/me.jpg)
+![image](/assets/images/me.jpg){: width="300" height="300"}
 
 
 Introduction:

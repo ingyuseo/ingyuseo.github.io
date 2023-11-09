@@ -5,7 +5,7 @@ layout: single
 comments: false
 ---
 
-![image](/assets/images/me.jpg)
+![image](/assets/images/me.jpg){: width="300" height="300"}
 
 
 만능 엔터테이너가 되고 싶은 서인규입니다.
