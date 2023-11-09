@@ -16,7 +16,10 @@ date: 2023-11-08
 last_modified_at: 2023-11-08
 ---
 
-## 🦥 본문
+## 🦥 자기소개
+
+![image](/assets/images/me.jpg)
+
 
 Introduction:
 
