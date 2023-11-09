@@ -23,8 +23,8 @@ Education:
 
 - 구미 형남초등학교
 - 구미 형남중학교
-- 구미고등학교
-- 성균관대학교
+- 구미고등학교 과학중점반
+- 성균관대학교 소프트웨어학과
 - Coursework:
 Algorithm, Deep Neural Network, Artificial Intelligence, 
 Computer Architecture, System Program, Computer Networks

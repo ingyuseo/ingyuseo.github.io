@@ -23,10 +23,10 @@ last_modified_at: 2023-11-08
 
 Introduction:
 
-저는 서인규 입니다.
+만능 엔터테이너가 되고 싶은 서인규입니다.
 
 성균관대 소프트웨어학과 18학번 재학 중입니다.
-
+SoyNet, 삼성전자 DS에서 인턴을 했었습니다.
 
 Skills:
 
@@ -36,10 +36,19 @@ Pytorch, CUDA, React, Spring Boot 의 Framework를 사용해보았습니다.
 
 Education:
 
--구미 형남초등학교
--구미 형남중학교
--구미고등학교
--성균관대학교
+- 구미 형남초등학교
+- 구미 형남중학교
+- 구미고등학교 과학중점반
+- 성균관대학교 소프트웨어학과
+- Coursework:
+Algorithm, Deep Neural Network, Artificial Intelligence, 
+Computer Architecture, System Program, Computer Networks
+Programming Language, HCI...
+
+- Internship 
+SoyNet : AI model porting, CUDA, TensorRT, AI model Optimization (Running time, Memory)
+Samsung DS : App DevOps Part, Study Jenkins k8s, DevOps, infra, backend. 
+
 
 Achievement and Certifications:
 
@@ -50,3 +59,4 @@ Contact
 - 010-3930-9345
 - sig45@naver.com
 - github: ingyuseo
+
