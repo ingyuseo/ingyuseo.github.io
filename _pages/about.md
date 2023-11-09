@@ -43,5 +43,5 @@ Achievement and Certifications:
 Contact
 - 010-3930-9345
 - sig45@naver.com
-- github: ingyuseo
+- https://github.com/ingyuseo
 
